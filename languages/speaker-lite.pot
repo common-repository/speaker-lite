@@ -1,0 +1,1163 @@
+# Copyright (C) 2024 Speaker Lite
+# This file is distributed under the same license as the Speaker Lite package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Speaker Lite\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-23 11:35+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:238
+msgid "Matching Method"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:239
+msgid "Should all or any assignments be matched?"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:241
+msgid "ALL"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:242
+msgid "ANY"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:244
+msgid "The plugin is enabled on the page if ALL the selected rules matched, or if ANY of the selected rules matched"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:249
+msgid "WordPress Content"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:252, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:274, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:284, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:313, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:339, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:364, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:386, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:408
+msgid "Ignore"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:253, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:275, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:285, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:314, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:340, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:365, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:387, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:409
+msgid "Include"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:254, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:276, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:286, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:315, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:341, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:366, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:388, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:410
+msgid "Exclude"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:259
+msgid "Select on what page types or categories the assignment should be active."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:271
+msgid "Home Page"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:282
+msgid "Menu Items"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:290
+msgid "Select the menu items to assign to."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:310
+msgid "Date & Time"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:325
+msgid "The date and time assignments use the date/time of your servers, not that of the visitors system."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:327
+msgid "Current date/time:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:336
+msgid "User Roles"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:345
+msgid "Select the user roles to assign to."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:361
+msgid "URL"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:371
+msgid "Enter (part of) the URLs to match."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:372
+msgid "Use a new line for each different match."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:383
+msgid "Devices"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:392
+msgid "Select the devices to assign to. Keep in mind that device detection is not always 100% accurate. Users can setup their device to mimic other devices."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:395
+msgid "Desktop"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:396
+msgid "Tablet"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:397
+msgid "Mobile"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:405
+msgid "Custom PHP"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:415
+msgid "Enter a piece of PHP code to evaluate. The code must return the value true or false."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/AssignmentsTab.php:417
+msgid "For instance:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/CheckCompatibility.php:224, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:274, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:277, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:433, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Elementor/widgets/Speaker/speaker.elementor.php:51, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WPBakery/elements/Speaker/speaker.wpbakery.php:72
+msgid "Speaker Lite"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/CheckCompatibility.php:249
+msgid "The minimum PHP version required for Speaker plugin is 5.6.0."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/DeveloperBoard.php:122
+msgid "Reset Settings:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/DeveloperBoard.php:135
+msgid "Reset"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/DeveloperBoard.php:136
+msgid "Press to reset all plugin settings to default state."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ErrorHandler.php:64
+msgid "Error number: "
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ErrorHandler.php:65
+msgid " in "
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ErrorHandler.php:66, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ErrorHandler.php:107
+msgid " on line "
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ErrorHandler.php:102
+msgid "Error: "
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ErrorHandler.php:105
+msgid "In: "
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ErrorHandler.php:112
+msgid "If you think the error is caused by an invalid key file then "
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ErrorHandler.php:113, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:581
+msgid "Reset API Key"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Language.php:297
+msgid "Unknown"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/MetaBox.php:120
+msgid "Publish a post before you can generate an audio version."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/MetaBox.php:136
+msgid "Speaker reads only publicly available posts."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/MetaBox.php:137
+msgid "Remove the password from the post, create an audio version, then close the post again with a password."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/MetaBox.php:138
+msgid "This is a necessary safety measure."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/MetaBox.php:173
+msgid "Create audio"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/MetaBox.php:171
+msgid "Re-create audio"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/MetaBox.php:180
+msgid "Remove"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/MetaBox.php:213, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabPostTypes.php:118
+msgid "Speech Template"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/MetaBox.php:214
+msgid "Selection of Speech Templates is available in the "
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/MetaBox.php:216, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:89
+msgid "Speaker PRO"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/MetaBox.php:241, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Elementor/widgets/Speaker/speaker.elementor.php:104
+msgid "Content"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/PluginHelper.php:161
+msgid "Speaker Lite: Before you begin"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/PluginHelper.php:164
+msgid "This plugin uses the Cloud Text-to-Speech API. You need to set up your Google Cloud Platform project and authorization before creating audio from text. Visit"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/PluginHelper.php:166
+msgid "Online Documentation"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/PluginHelper.php:168
+msgid "for more details."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/PluginHelper.php:148
+msgid "This plugin uses the Google Cloud Text-to-Speech API Key File. Set up your Google Cloud Platform project before the start."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/PluginHelper.php:245, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/PluginHelper.php:245
+msgid "Settings"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/PluginHelper.php:246, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/PluginHelper.php:246, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:303
+msgid "Documentation"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/PluginHelper.php:247, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/PluginHelper.php:247
+msgid "Plugins"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/PluginHelper.php:285
+msgid "Rate this plugin:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:64
+msgid "Operating System"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:65
+msgid "Software"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:66
+msgid "MySQL version"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:67
+msgid "PHP Version"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:68
+msgid "Write Permissions"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:69
+msgid "ZIP Installed"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:70
+msgid "cURL Installed"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:72
+msgid "DOM Installed"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:73
+msgid "XML Installed"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:74
+msgid "BCMath Installed"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:75
+msgid "mbstring Installed"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:76
+msgid "Server Time Sync"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:139
+msgid "We recommend to use php 5.6 or higher"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:165, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:188, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:213, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:238, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:263, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:288, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:313, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:340, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:360, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:388
+msgid "YES"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:165, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:188, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:213, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:238, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:263, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:288, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:313, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:340, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:360, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:388
+msgid "NO"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:190
+msgid "You must enable allow_url_fopen option in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:215
+msgid "You must enable CURL (Client URL Library) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:240
+msgid "You must enable DOM extension (Document Object Model) in PHP. It's used for HTML processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:265
+msgid "You must enable XML extension in PHP. It's used for XML processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:290
+msgid "You must enable BCMath extension (Arbitrary Precision Mathematics) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:315
+msgid "You must enable mbstring extension (Multibyte String) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:342, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:362
+msgid "Failed to check time synchronization on your server. Your server's clock must be in sync with network time protocol - NTP."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:390
+msgid "Your server's clock is not in sync with network time protocol - NTP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:436
+msgid "WordPress root directory"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:444
+msgid "WordPress root uploads directory"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:450
+msgid "Speaker uploads directory"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:456
+msgid ".htaccess file"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:471
+msgid "All right"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/ServerReporter.php:467
+msgid "There are some writing permissions issues with the following directories/files:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:117
+msgid "Plugin settings"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:169, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:218
+msgid "Voice"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:179
+msgid "Status"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:184
+msgid "Uninstall"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:211
+msgid "Design"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:216
+msgid "Post Types"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:221, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:502
+msgid "Custom CSS"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:226
+msgid "Assignments"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:250
+msgid "Developer"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:278
+msgid "v."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:282
+msgid "Save changes"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:299
+msgid "Helpful links"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:308
+msgid "Get help"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:312
+msgid "Rate this plugin"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:317
+msgid "More plugins"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:335
+msgid "Upgrade License"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:339
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:432
+msgid "Speaker Settings"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:529
+msgid "Developer Board"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:523
+msgid "Uninstall Settings"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:517
+msgid "System Requirements"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:494
+msgid "Assignments Settings"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:487
+msgid "Post Types Settings"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:480
+msgid "Design Settings"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Settings.php:473
+msgid "Voice Settings"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:51
+msgid "Add custom CSS here."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:86
+msgid "Unlock additional functionality!"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:88
+msgid "Speaker Lite includes only the basic functions. Go "
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:90
+msgid " to get more awesome features. Buy a license and gain access to all hidden features."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:132, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabPostTypes.php:69, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:453, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:478, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:503, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:529
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:135
+msgid "Compare Speaker"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:157
+msgid "FAQ'S"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:161
+msgid "Why should I go to Pro version?"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:164
+msgid "The Speaker Pro provides "
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:165
+msgid " advanced features"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:166
+msgid "including custom post types support and speech templates, which makes the plugin compatible with most themes and plugins. You can create audio for posts with any number of characters and explore other useful functions to work with your project. "
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:172
+msgid "Can I use one license for multiple sites?"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:176
+msgid "According to the Envato rules, all products with a"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:177
+msgid "regular license"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:178
+msgid "can be used only for one end product except the situation when several sites are used for one project. Otherwise, a separate license is needed for each site."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:184
+msgid "Are there any restrictions in the Pro version?"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:188
+msgid "For our part, we provide all the available functions for the Speaker Pro but please note the plugin based on Google Cloud API, which provides a free quota of 4 million characters every month. If your website consumes more, then each next million characters will cost $4. Here is"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:189
+msgid "Google Pricing"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:190
+msgid ". In the Google settings, there are quotas for dropping money from the card, and you can set them to $0. And when the free characters quota ends, the plugin will stop working until next month."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:210
+msgid "Subscribe to news"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:211
+msgid "Sign up for the newsletter to be the first to know about news and discounts on Speaker and other WordPress plugins."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:217
+msgid "Your Name"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:228
+msgid "Your E-Mail"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:239
+msgid "Subscribe"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SettingsFields.php:267
+msgid "Settings saved!"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/speaker-lite-template.php:3
+msgid "Speaker Template"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SpeakerCaster.php:237
+msgid "Speaker Lite have 5000 characters limit on the size of processed content. This post has exceeded limits. Use the full version of the Speaker plugin to generate audio for large texts."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SpeakerCaster.php:673, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SpeakerCaster.php:676
+msgid "Download: "
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SpeakerCaster.php:923, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SpeakerCaster.php:925
+msgid "Download audio"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SpeakerCaster.php:928
+msgid "Date of creation"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SpeakerCaster.php:1027
+msgid "Error: There are no Speech Template ID received."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SpeakerCaster.php:1091
+msgid "Failed to install Speech Template as Default."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SpeakerCaster.php:1101
+msgid "Speech Template is installed as Default successfully."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SpeakerCaster.php:1206
+msgid "Speech Template not found."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SpeakerCaster.php:1251
+msgid "Failed to remove Speech Template"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SpeakerCaster.php:1243
+msgid "Speech Template removed successfully."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SpeakerCaster.php:1266
+msgid "Failed to update Speech Template."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SpeakerCaster.php:1276
+msgid "Speech Template updated successfully."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SpeakerCaster.php:1407
+msgid "PHP 8.1 or higher is required."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SpeakerCaster.php:1430
+msgid "An error occurred while generating the audio."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/SpeakerCaster.php:1423
+msgid "Audio Generated Successfully"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/StatusTab.php:172
+msgid "Some data will be sent to our server to ensure that a plugin is best compatible with your web-server environment. We will never collect any confidential data. All data is stored anonymously."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:38
+msgid "Player Position:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:46
+msgid "Player Style:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:54
+msgid "Background Color:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:62
+msgid "Download Link:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:79
+msgid "Before Content"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:80
+msgid "After Content"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:81
+msgid "Top Fixed"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:82
+msgid "Bottom Fixed"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:83
+msgid "Before Title"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:84
+msgid "After Title"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:85
+msgid "Shortcode [speaker]"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:92
+msgid "Position"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:93
+msgid "Select the Player position or use shortcode."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:108
+msgid "Round player"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:109
+msgid "Rounded player"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:110
+msgid "Squared player"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:111
+msgid "WordPress default player"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:112
+msgid "Browser default player"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:119
+msgid "Player Style"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:120
+msgid "Select one of the Player styles"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:137
+msgid "Background Color"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:138
+msgid "Select the Player background-color"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:157
+msgid "Do not show"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:158
+msgid "Backend Only"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:159
+msgid "Frontend Only"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:160
+msgid "Backend and Frontend"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:167
+msgid "Download link"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabDesign.php:168
+msgid "Position of the Download audio link"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabPostTypes.php:34
+msgid "Post Types:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabPostTypes.php:42
+msgid "Speech Templates:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabPostTypes.php:64
+msgid "Select post types for which the plugin will work."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabPostTypes.php:91
+msgid "Default Speech Templates"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabPostTypes.php:94
+msgid "Post Type"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabPostTypes.php:95
+msgid "Default Speech Template"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabPostTypes.php:134
+msgid "Speech Templates for Custom Post Types are not available in the Speaker Lite. Go "
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabPostTypes.php:134
+msgid "PRO"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabPostTypes.php:134
+msgid " to unlock additional functionality."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:49
+msgid "Voice example:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:57
+msgid "Select Language:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:65
+msgid "Audio Profile:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:73
+msgid "Speaking Speed:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:81
+msgid "Pitch:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:89
+msgid "Volume Gain:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:97
+msgid "Before Audio:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:105
+msgid "After Audio:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:112
+msgid "Read the Title:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:120
+msgid "Automatic synthesis:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:131
+msgid "API Key File:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:153
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:176
+msgid "Select Language"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:193, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:217, wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WordPressReporter.php:82
+msgid "Language"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:204
+msgid "The list includes both standard and"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:206
+msgid "WaveNet voices"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:207
+msgid "WaveNet voices are higher quality voices with different"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:209
+msgid "pricing"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:210
+msgid "in the list, they have the voice type \"WaveNet\"."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:219
+msgid "Gender"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:332
+msgid "Smart watches and other wearables"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:333
+msgid "Smartphones"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:334
+msgid "Earbuds or headphones"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:335
+msgid "Small home speakers"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:336
+msgid "Smart home speakers"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:337
+msgid "Home entertainment systems"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:338
+msgid "Car speakers"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:339
+msgid "Interactive Voice Response"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:346
+msgid "Audio Profile"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:347
+msgid "Optimize the synthetic speech for playback on different types of hardware."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:367
+msgid "Speaking Rate/Speed"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:368
+msgid "Speaking rate:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:393
+msgid "Pitch"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:394
+msgid "Current pitch:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:419
+msgid "Volume Gain"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:420
+msgid "Current volume gain:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:422
+msgid " dB"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:446
+msgid "Before Audio"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:447
+msgid "Add text before audio(intro)."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:471
+msgid "After Audio"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:472
+msgid "Add a text after audio(outro)."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:496
+msgid "Read the Title"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:497
+msgid "Include title in audio version."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:522
+msgid "Synthesize audio on save"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:523
+msgid "This significantly increases your expenses in Google Cloud."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:565
+msgid "API Key"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:575
+msgid "Drop Key file here or click to upload."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:572
+msgid "API Key file exist"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:573
+msgid "Drop Key file here or click to upload"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:585
+msgid "Drag and drop or click on the form to add API key."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:580
+msgid "Drag and drop or click on the form to replace API key. |"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:646
+msgid ""
+"Failed to get the list of languages. \n"
+"            The request failed. It looks like a problem with your API Key File. \n"
+"            Make sure that you are using the correct key file, and that the quotas have not been exceeded. \n"
+"            If you set security restrictions on a key, make sure that the current domain is added to the exceptions."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:670
+msgid "Need a PHP 7 alternative?"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:672
+msgid "Look for the Speaker PHP7 child-plugin within the"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:674
+msgid "package"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:713
+msgid "WaveNet voice"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:723
+msgid "Neural2 voice"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:733
+msgid "News voice"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:743
+msgid "Studio voice"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/TabVoice.php:751
+msgid "Standard voice"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/UI.php:530
+msgid "Dismiss"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/UninstallTab.php:67
+msgid "Removal settings:"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/UninstallTab.php:90
+msgid "Delete plugin only"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/UninstallTab.php:91
+msgid "Delete plugin and settings"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/UninstallTab.php:92
+msgid "Delete plugin, settings and data"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/UninstallTab.php:96
+msgid "Choose which data to delete upon using the \"Delete\" action in the \"Plugins\" admin page."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/UninstallTab.php:102
+msgid "Delete plugin"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WordPressReporter.php:74
+msgid "Version"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WordPressReporter.php:75
+msgid "Site URL"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WordPressReporter.php:76
+msgid "Home URL"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WordPressReporter.php:77
+msgid "ABSPATH"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WordPressReporter.php:78
+msgid "WP Multisite"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WordPressReporter.php:79
+msgid "Max Upload Size"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WordPressReporter.php:80
+msgid "Memory limit"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WordPressReporter.php:81
+msgid "Permalink Structure"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WordPressReporter.php:83
+msgid "Timezone"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WordPressReporter.php:84
+msgid "Admin Email"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WordPressReporter.php:85
+msgid "Debug Mode"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WordPressReporter.php:150
+msgid "We recommend setting memory to at least 64M. For more information, ask your hosting provider."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WordPressReporter.php:192
+msgid "Yes"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WordPressReporter.php:192
+msgid "No"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WordPressReporter.php:267
+msgid "Plain"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WordPressReporter.php:371
+msgid "Active"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WordPressReporter.php:371
+msgid "Inactive"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Elementor/widgets/Speaker/speaker.elementor.php:107
+msgid "To configure plugin appearance go to "
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Elementor/widgets/Speaker/speaker.elementor.php:109
+msgid "Speaker settings"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/Elementor/widgets/Speaker/speaker.elementor.php:111
+msgid " page"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WPBakery/elements/Speaker/speaker.wpbakery.php:73
+msgid "Create an audio version of your posts."
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WPBakery/elements/Speaker/speaker.wpbakery.php:76
+msgid "Social"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WPBakery/elements/Speaker/speaker.wpbakery.php:82
+msgid "Css"
+msgstr ""
+
+#: wp-content/plugins/speaker-lite/src/Merkulove/SpeakerLite/WPBakery/elements/Speaker/speaker.wpbakery.php:83
+msgid "Design options"
+msgstr ""
